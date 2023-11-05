@@ -6,10 +6,6 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 Please ensure your pull request adheres to the [list of guidelines](pull_request_template.md).
 
-## Creating your own awesome list
-
-To create your own list, check out the [instructions](create-list.md).
-
 ## Adding something to an awesome list
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
