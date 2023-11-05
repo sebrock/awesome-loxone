@@ -1,7 +1,7 @@
 # awesome-loxone
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/all-contributors/all-contributors)
+
 
 
 awesome-loxone by sebrock is marked with CC0 1.0 Universal 
